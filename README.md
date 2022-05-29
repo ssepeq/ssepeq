@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ssepeq
 - 👀 I’m interested in chemistry, spectroscopy, olfaction, multiband photography.
-- 🌱 I’m currently learning Laravel, Vue.js.
 - 💞️ Pull requests are always welcome!
 - 📫 How to reach me: julie@primaryodors.org
 
